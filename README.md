@@ -18,5 +18,5 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/maddy-photography.git
+git clone https://github.com/maddymadhan16/maddy-photography.git
 cd maddy-photography
